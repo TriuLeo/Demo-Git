@@ -1,0 +1,11 @@
+D:\program\Windows Programming\Demo\Fgv\bin\Debug\Fgv.exe.config
+D:\program\Windows Programming\Demo\Fgv\bin\Debug\Fgv.exe
+D:\program\Windows Programming\Demo\Fgv\bin\Debug\Fgv.pdb
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.csproj.AssemblyReference.cache
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.csproj.SuggestedBindingRedirects.cache
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.FGiaoVien.resources
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.Properties.Resources.resources
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.csproj.GenerateResource.cache
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.csproj.CoreCompileInputs.cache
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.exe
+D:\program\Windows Programming\Demo\Fgv\obj\Debug\Fgv.pdb

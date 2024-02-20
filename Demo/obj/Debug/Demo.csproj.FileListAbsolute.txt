@@ -1,0 +1,15 @@
+D:\program\Windows Programming\Demo\Demo\bin\Debug\Demo.exe.config
+D:\program\Windows Programming\Demo\Demo\bin\Debug\Demo.exe
+D:\program\Windows Programming\Demo\Demo\bin\Debug\Demo.pdb
+D:\program\Windows Programming\Demo\Demo\bin\Debug\System.Data.SqlClient.dll
+D:\program\Windows Programming\Demo\Demo\bin\Debug\System.Data.SqlClient.xml
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.exe
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.pdb
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.FHocSinh.resources
+D:\program\Windows Programming\Demo\Demo\obj\Debug\Demo.FGiaoVien.resources
